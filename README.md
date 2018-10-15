@@ -2,8 +2,8 @@
 Web application to manage docker services and its containers.
 
 ## PURPOSE:
-- Managing docker-engine services
-- Managing docker containers
+- Manage docker-engine services
+- Manage docker containers
 - Launch new containers
 
 ## SET UP THIS ENVIRONMENT:
