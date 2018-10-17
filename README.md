@@ -7,7 +7,9 @@ Web application to manage docker services and its containers.
 - Launch new containers
 
 ![Docker not installed in system](https://github.com/pangit96/my_docker_server/blob/master/screenshots_docker/docker1.png)
+
 ![Docker Services](https://github.com/pangit96/my_docker_server/blob/master/screenshots_docker/docker3.png)
+
 ![Conatainer Management](https://github.com/pangit96/my_docker_server/blob/master/screenshots_docker/docker4.png)
 
 
