@@ -6,6 +6,12 @@ Web application to manage docker services and its containers.
 - Manage docker containers
 - Launch new containers
 
+![Docker not installed in system](https://github.com/pangit96/my_docker_server/blob/master/screenshots_docker/docker1.png)
+![Docker Services](https://github.com/pangit96/my_docker_server/blob/master/screenshots_docker/docker3.png)
+![Conatainer Management](https://github.com/pangit96/my_docker_server/blob/master/screenshots_docker/docker4.png)
+
+
+
 ## Set up this environment:
 #### 1. Configure yum repolist in your linux system
         # yum repolist
@@ -28,3 +34,5 @@ Web application to manage docker services and its containers.
         # chmod +x /var/www/cgi-bin/*.py
 ##### Run web application:
         # firefox http://localhost:80/cgi-bin/docker.py
+        
+
